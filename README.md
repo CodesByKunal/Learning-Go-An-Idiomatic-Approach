@@ -1,2 +1,3 @@
-# Learning-Go-An-Idiomatic-Approach
+# Book : Learning-Go-An-Idiomatic-Approach
+
 An Idiomatic Approach to Real-World Go Programming
